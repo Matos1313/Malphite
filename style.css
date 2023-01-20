@@ -1,3 +1,8 @@
 body{
     background-image: url('malphas girandinho.gif');
 }
+
+#controle{
+    position: relative;
+    top: -80000px;
+}
